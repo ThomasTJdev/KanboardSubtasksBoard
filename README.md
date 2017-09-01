@@ -1,3 +1,5 @@
+# Not maintained
+
 # Show subtasks below tasks on main board
 
 This will render the subtasks on board.
